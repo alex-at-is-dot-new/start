@@ -1,5 +1,3 @@
-# start
-
 in:
 ----------
 list liabilities:
@@ -18,10 +16,14 @@ android
 salesforce
 
 
+
+
 next actions:
 ----------
 x- start this list
 lk at sites for $$
+
+
 
 
 projects:
@@ -37,8 +39,12 @@ is.new:
 lk at babson alum database
 
 
+
+
 sometime/maybe:
 ----------
+
+
 
 
 
@@ -47,5 +53,8 @@ waiting:
 ted: counselor
 
 
+
+
 scheduled:
 ----------
+
